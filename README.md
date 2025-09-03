@@ -17,7 +17,7 @@ This project extracts data from the Reddit API, processes it using a **Medallion
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/reddit-etl-project.git
+git clone https://github.com/shaheerbeig/reddit-etl-project.git
 cd reddit-etl-project
 ```
 2. Environment Variables:
