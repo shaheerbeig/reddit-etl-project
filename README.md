@@ -22,13 +22,13 @@ cd reddit-etl-project
 ```
 2. Environment Variables:
 Create a .env file in the root folder based on .env.example:
-REDDIT_CLIENT_ID=your_client_id
-REDDIT_SECRET=your_secret
-REDDIT_USER_AGENT=your_agent
-DB_HOST=localhost
-DB_USER=postgres
-DB_PASS=yourpassword
-DB_NAME=redditdb
+- REDDIT_CLIENT_ID=your_client_id
+- REDDIT_SECRET=your_secret
+- REDDIT_USER_AGENT=your_agent
+- DB_HOST=localhost
+- DB_USER=postgres
+- DB_PASS=yourpassword
+- DB_NAME=redditdb
 
 3. Install dependencies:
 pip install -r requirements.txt
